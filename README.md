@@ -2,7 +2,7 @@
 
 Projekt prezentuje analizę przestrzenną infrastruktury rowerowej na terenie Warszawy z wykorzystaniem relacyjnej bazy danych i zapytań przestrzennych. Głównym celem było sprawdzenie, jak stacje rozkładają się w poszczególnych dzielnicach i gdzie występuje ich największe zagęszczenie w przeliczeniu na powierzchnię.
 
-![Wizualizacja dostępności stacji rowerowych]<img width="3507" height="2480" alt="project-03-spatial" src="https://github.com/user-attachments/assets/3203aa97-0e21-4531-a431-91a4b2645f84" />
+<img width="3507" height="2480" alt="project-03-spatial" src="https://github.com/user-attachments/assets/3203aa97-0e21-4531-a431-91a4b2645f84" />
 
 ---
 
