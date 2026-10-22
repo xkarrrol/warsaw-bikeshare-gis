@@ -87,5 +87,6 @@ Największe nasycenie stacjami występuje w dzielnicy Śródmieście, gdzie wska
 * `analysis.sql` – skrypt z zapytaniami tworzącymi indeksy oraz widok analityczny.
 * `warszawa_bikeshare.gpkg` – plik z kompletnymi danymi wektorowymi oraz zapisanym projektem QGIS.
 * `warszawa_dzielnice.gpkg` – plik z dzielnicami Warszawy
+* `project-03-spatial.gpkg` – całkowity plik ze wszystkimi warstwami.
 * `rowery_amenity.gpkg` – plik ze stacjami rowerowymi
 * `project-03-spatial.jpg` – wyeksportowana kompozycja mapowa w wysokiej rozdzielczości.
