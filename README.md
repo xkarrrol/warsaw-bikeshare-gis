@@ -19,7 +19,7 @@ Wynik analizy został przygotowany w formie widoku bazodanowego, który można b
 * **Baza danych:** PostgreSQL z rozszerzeniem przestrzennym PostGIS
 * **Zarządzanie bazą:** DBeaver
 * **Wizualizacja i kompozycja:** QGIS
-* **Format zapisu danych:** GeoPackage (uniwersalny kontener na dane wektorowe i konfigurację projektu)
+* **Format zapisu danych:** GeoPackage
 
 ---
 
